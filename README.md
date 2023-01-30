@@ -1,6 +1,6 @@
 # Simple CLI Calculator in Rust
 
-This is a very basic and simple cli calculator built with Rust.  
+This is a very basic and simple cli calculator built with Rust, using a guide [here](https://www.freecodecamp.org/news/rust-in-replit/).  
 The application expects a number, an operator, and another number as env arguments.
 
 **Usage:**
@@ -38,5 +38,5 @@ Navigate to `./target/release` and run `./calculator <number> <operator> <number
 Eg.
 
 ```bash
-	$ ./target/release/calculator 10 / 8
+$ ./target/release/calculator 10 / 8
 ```
